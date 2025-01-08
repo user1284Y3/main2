@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Ajout d'un test.txt
-=======
 Ajout d'un exemple
->>>>>>> 80f0f011d76d4b7bd101f7a3e1166de5bc327281
-=======
-Ajout d'un exemple
->>>>>>> f3ea015ef17e0653f824217c89d13a3a83a817df
